@@ -12,10 +12,6 @@
     "target_path": "device/samsung/msm8930-common"
   },
   {
-    "repository": "android_vendor_samsung_serranoltexx",
-    "target_path": "vendor/samsung/serranoltexx"
-  },
-  {
     "repository": "android_device_samsung_serrano-common",
     "target_path": "device/samsung/serrano-common"
   },
